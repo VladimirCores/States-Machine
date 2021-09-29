@@ -1,11 +1,11 @@
 {
-  "name": "states_ts",
+  "name": "states-machine",
   "version": "1.0.0",
-  "description": "states machine for javascript",
+  "description": "States machine for JavaScript / TypeScript",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
   "module": "build/module/index.js",
-  "repository": "https://github.com/VladimirCores/states_ts",
+  "repository": "https://github.com/VladimirCores/states-machine",
   "license": "MIT",
   "keywords": [],
   "scripts": {
